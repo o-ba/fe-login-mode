@@ -17,7 +17,7 @@ amount of possible cache variants, especially in installations with complex
 user and user group setups.
 
 As previously available in the Core, the TypoScript option
-``sendCacheHeaders_onlyWhenLoginDeniedInBranch`` can be used to
+``config.sendCacheHeaders_onlyWhenLoginDeniedInBranch`` can be used to
 further restrict the transmission of cache headers.
 
 ## Installation
@@ -34,14 +34,17 @@ and activate it in the Extension Manager of your TYPO3 installation.
 ## License
 
 The extension is licensed under GPL v2+, same as the TYPO3 Core. For details
-see the LICENSE file in this repository.
+see the [LICENSE](https://github.com/o-ba/fe-login-mode/blob/main/LICENSE)
+file in this repository.
 
 ## Open Issues
 
-If you find an issue, feel free to create an issue on GitHub or a pull request.
+If you find an issue, feel free to [report](https://github.com/o-ba/fe-login-mode/issues)
+it on GitHub. You can also directly create a [pull request](https://github.com/o-ba/fe-login-mode/pulls).
 
 ## Credits
 
 This extension was created by [Oliver Bartsch](https://github.com/o-ba) in 2022.
-The original credits go to the TYPO3 development team and the contributors, who
+The original credits go to the TYPO3 development team and the
+[contributors](https://github.com/TYPO3/typo3/graphs/contributors), who
 have maintained this code for over 18 years until it was removed from Core.
