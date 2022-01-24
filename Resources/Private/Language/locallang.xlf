@@ -9,9 +9,6 @@
 			<trans-unit id="pages.fe_login_mode_formlabel" resname="pages.fe_login_mode_formlabel">
 				<source>Login Behaviour</source>
 			</trans-unit>
-			<trans-unit id="pages.fe_login_mode.disable" resname="pages.fe_login_mode.disable">
-				<source>Disable</source>
-			</trans-unit>
 			<trans-unit id="pages.fe_login_mode.enable" resname="pages.fe_login_mode.enable">
 				<source>Enable login</source>
 			</trans-unit>
