@@ -18,20 +18,20 @@ ExtensionManagementUtility::addTCAcolumns(
                 'renderType' => 'selectSingle',
                 'items' => [
                     [
-                        'LLL:EXT:fe_login_mode/Resources/Private/Language/locallang.xlf:pages.fe_login_mode.enable',
-                        0,
+                        'label' => 'LLL:EXT:fe_login_mode/Resources/Private/Language/locallang.xlf:pages.fe_login_mode.enable',
+                        'value' => 0,
                     ],
                     [
-                        'LLL:EXT:fe_login_mode/Resources/Private/Language/locallang.xlf:pages.fe_login_mode.disableAll',
-                        1,
+                        'label' => 'LLL:EXT:fe_login_mode/Resources/Private/Language/locallang.xlf:pages.fe_login_mode.disableAll',
+                        'value' => 1,
                     ],
                     [
-                        'LLL:EXT:fe_login_mode/Resources/Private/Language/locallang.xlf:pages.fe_login_mode.disableGroups',
-                        3,
+                        'label' => 'LLL:EXT:fe_login_mode/Resources/Private/Language/locallang.xlf:pages.fe_login_mode.disableGroups',
+                        'value' => 3,
                     ],
                     [
-                        'LLL:EXT:fe_login_mode/Resources/Private/Language/locallang.xlf:pages.fe_login_mode.enableAgain',
-                        2,
+                        'label' => 'LLL:EXT:fe_login_mode/Resources/Private/Language/locallang.xlf:pages.fe_login_mode.enableAgain',
+                        'value' => 2,
                     ],
                 ],
             ],
